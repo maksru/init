@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    14                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mrudyk <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/02/13 14:25:45 by mrudyk            #+#    #+#              #
+#    Updated: 2018/02/13 14:44:18 by mrudyk           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#! It is necessary to use the function host 10.51.1.81
+#! It is necessary to use the function host 10.51.1.253
+#! It is necessary to use the function host 8.8.8.8
+
+253.1.51.10.in-addr.arpa domain name pointer ns1.unit.ua.

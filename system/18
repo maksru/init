@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    18                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mrudyk <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/02/13 18:30:42 by mrudyk            #+#    #+#              #
+#    Updated: 2018/02/13 18:36:16 by mrudyk           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+sudo iptables -A INPUT -s 10.0.0.0 -i eth0 -p tcp -j ACCEPT 
+sudo iptables -A INPUT -s 10.0.0.0 -i eth0 -p udp -j ACCEPT 
+sudo iptables -A INPUT -s 10.0.0.0 -i eth0 -p tcp -j ACCEPT 
+sudo iptables -A INPUT -s 10.0.0.0 -i eth0 -p udp -j ACCEPT 
+sudo iptables -A INPUT -s 10.0.0.0 -i eth0 -p udp -j ACCEPT 
+
