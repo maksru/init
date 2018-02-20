@@ -6,7 +6,7 @@ cd /tmp
 open .
 При установке новой виртуальной машины на шаге File location and size - нажмите справа от названия на папку и мышкой перетащите вашу папку tmp, чтобы образ сохранился в темп папку не ограниченную размером.
 #Для работы нужно еще утановить openssh-server:
-#1)sudo apt update.
-#2)sudo apt upgrate.
-#3)sudo apt-get install openssh-server.
+# 1)sudo apt update.
+# 2)sudo apt upgrate.
+# 3)sudo apt-get install openssh-server.
 После работы папку можно скинуть на флешку и носить с собой
