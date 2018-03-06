@@ -1,6 +1,6 @@
 # init
 42 Project.
-C MSC установить Oracle VM Virtual Box, скачать live дистрибутив с https://cdimage.debian.org/debian-cd/cu ... so-hybrid/ - выбираем, например, debian-live-9.3.0-amd64-cinnamon.iso
+C MSC установить Oracle VM Virtual Box, скачать live дистрибутив с https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/ - выбираем, например, debian-live-9.3.0-amd64-cinnamon.iso
 Заранее открываем терминал и пишем
 cd /tmp
 open .
